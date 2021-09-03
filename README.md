@@ -1,2 +1,2 @@
-# Machine_Translation_using_Transformers
+# Machine Translation Using Transformers
 English to German translation using Transformer model
